@@ -15,7 +15,7 @@ Clone this repository to your local machine.
 bash
 
 //Copy code
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/saikiranr22/task-manager.git
 Navigate to the project directory.
 bash
 
