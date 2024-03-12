@@ -32,6 +32,9 @@ Use the console interface to interact with the Task Manager application, creatin
 Example Usage
 Here's an example demonstrating how to utilize the Task Manager application in your console-based Java project with PostgreSQL database integration:
 
+
+![Screenshot 2024-03-12 113629](https://github.com/saikiranr22/ConsoleTaskManager/assets/147222335/293c9f33-447e-473e-88b9-a24355ac84b0)
+
 java
 Copy code
 import java.time.LocalDate;
